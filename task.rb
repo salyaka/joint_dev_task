@@ -94,7 +94,7 @@ def q10
       puts "好物です"
     else
       puts "まぁまぁ好きです"
-     end
+    end
   end
   
 end
